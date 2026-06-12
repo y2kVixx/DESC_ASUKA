@@ -1,1 +1,3 @@
-# DESC_ASUKA
+Site sobre a Asuka Langley 
+
+(Para estudo)
